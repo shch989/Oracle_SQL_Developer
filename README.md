@@ -1,7 +1,7 @@
 # Oracle_SQL_Developer
 
 ```
-권한부여
+SQL 권한 부여
 
 $ sqlplus /nolog
 
